@@ -1,4 +1,4 @@
-👩🏻‍💻# Power-BI_Credit_Card_Financial_Dashboard
+👩🏻‍💻# Power BI_Credit_Card_Financial_Dashboard
 
 Credit Card Transaction and Customer Dashboard using Power BI
 
@@ -22,17 +22,17 @@ Visualizations should be clean, easy to interpret, and well-organized. Use appro
 
 ---> Objective: Create an interactive Power BI dashboard that visualizes key metrics related to Credit Card Customers. The data should be filtered by Male and Female.
 
----> Filters: 1.Gender Filter: Provide an option to filterthe entire dashboard by Male and Female
-              2.Age Group Filter: Filter customers based on age ranges (e.g., 18-25, 26-35, etc.)
-              3.Income Group Filter: Allow filtering by income levels (Low, Medium, High)
+---> Filters: * Gender Filter: Provide an option to filterthe entire dashboard by Male and Female
+              * Age Group Filter: Filter customers based on age ranges (e.g., 18-25, 26-35, etc.)
+              * Income Group Filter: Allow filtering by income levels (Low, Medium, High)
 
 📊 Dashboard 2 – Credit Card Transaction Report
 
 ---> Objective: Create an interactive Power BI dashboard to analyze credit card transactions. Provide insights into spending patterns, transaction frequency, and other relevant metrics.
 
----> Filters: 1.Gender Filter: Filter transactions by Male and Female
-              2.Transaction Date Filter: Allow filtering by Week
-              3.Spending Category Filter: Filter by different Spending Categories.
+---> Filters: * Gender Filter: Filter transactions by Male and Female
+              * Transaction Date Filter: Allow filtering by Week
+              * Spending Category Filter: Filter by different Spending Categories.
 
 🔔 Additional Notes-----
 * Focus on Power BI functionality such as slicers, drill-throughs, and dynamic filters to enhance the interactivity of your dashboards.
