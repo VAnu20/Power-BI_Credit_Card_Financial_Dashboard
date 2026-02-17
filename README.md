@@ -22,7 +22,7 @@ Visualizations should be clean, easy to interpret, and well-organized. Use appro
 
 ---> Objective: Create an interactive Power BI dashboard that visualizes key metrics related to Credit Card Customers. The data should be filtered by Male and Female.
 
----> Filters:  * Gender Filter: Provide an option to filterthe entire dashboard by Male and Female
+---> Filters: * Gender Filter: Provide an option to filterthe entire dashboard by Male and Female
 
               * Age Group Filter: Filter customers based on age ranges (e.g., 18-25, 26-35, etc.)
               
@@ -32,7 +32,7 @@ Visualizations should be clean, easy to interpret, and well-organized. Use appro
 
 ---> Objective: Create an interactive Power BI dashboard to analyze credit card transactions. Provide insights into spending patterns, transaction frequency, and other relevant metrics.
 
----> Filters:  * Gender Filter: Filter transactions by Male and Female
+---> Filters: * Gender Filter: Filter transactions by Male and Female
 
               * Transaction Date Filter: Allow filtering by Week
               
