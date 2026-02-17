@@ -4,7 +4,7 @@ Credit Card Transaction and Customer Dashboard using Power BI
 
 📊 Power BI Analytics Dashboard Project:
 
-💰📈# ***Credit Card Weekly Status Report***
+💰📈# **Credit Card Weekly Status Report**
 
 🎯 Project Objective :
 
