@@ -1,10 +1,10 @@
-👩🏻‍💻# Power-BI_Credit_Card_Financial_Dashboard
+👩🏻‍💻# **Power-BI_Credit_Card_Financial_Dashboard**
 
 Credit Card Transaction and Customer Dashboard using Power BI
 
 📊 Power BI Analytics Dashboard Project:
 
-💰📈# Credit Card Weekly Status Report
+💰📈# **Credit Card Weekly Status Report**
 
 🎯 Project Objective :
 
