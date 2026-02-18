@@ -4,13 +4,13 @@ Credit Card Transaction and Customer Dashboard using Power BI
 
 📊 Power BI Analytics Dashboard Project:
 
-💰📈## Credit Card Weekly Status Report
+💰📈# Credit Card Weekly Status Report
 
-🎯 ### Project Objective :
+🎯 Project Objective :
 
 As part of this task, you are required to build two interactive Power BI dashboards from the provided datasets. The dashboards should provide actionable insights and be filtered by gender (Male/Female). The primary focus is to create meaningful visualizations based on key metrics related to Credit Card Customers and Credit Card Transactions.
 
-📝 ### Data Set and Requirements----
+📝 Data Set and Requirements----
 
 📑--> Data Provided:
 Customer Data: Includes customer demographics (gender, age, income) and credit card details (credit score, ownership status, etc.) Transaction Data: Contains transaction details such as date, amount, category, transaction type, and associated customer ID.
@@ -38,6 +38,6 @@ Visualizations should be clean, easy to interpret, and well-organized. Use appro
               
               * Spending Category Filter: Filter by different Spending Categories.
 
-🔔 ### Additional Notes-----
+🔔 Additional Notes-----
 * Focus on Power BI functionality such as slicers, drill-throughs, and dynamic filters to enhance the interactivity of your dashboards.
 * DAX calculations are required for this task (Age Group, Income Group as ‘Low’, ‘Med’, ‘High’, Total Revenue, week num, cur_week_revenue, previous_week_revenue)
