@@ -19,8 +19,9 @@ This project was developed to create an interactive reporting solution using Pow
 
 The project includes two dashboards:
 
-1️⃣ Credit Card Customer Dashboard
-2️⃣ Credit Card Transaction Dashboard
+**1️. Credit Card Customer Dashboard**
+
+**2️. Credit Card Transaction Dashboard**
 
 Both dashboards are interactive and allow filtering by Gender, Age Group, Income Group, Transaction Date, and Spending Category.
 
@@ -30,12 +31,12 @@ As part of this task, you are required to build two interactive Power BI dashboa
 
 - **The primary objectives of this project include:**
 
-- Developing interactive Power BI dashboards to analyze credit card data
-- Monitoring key performance indicators such as revenue, interest earned, and transaction volume
-- Identifying customer demographics contributing the most to revenue
-- Analyzing customer behavior based on age group, gender, and income level
-- Understanding transaction trends across different spending categories
-- Providing a weekly financial performance overview for business stakeholders
+  - Developing interactive Power BI dashboards to analyze credit card data
+  - Monitoring key performance indicators such as revenue, interest earned, and transaction volume
+  - Identifying customer demographics contributing the most to revenue
+  - Analyzing customer behavior based on age group, gender, and income level
+  - Understanding transaction trends across different spending categories
+  - Providing a weekly financial performance overview for business stakeholders
 
 ### Dataset Used 
 
@@ -46,39 +47,39 @@ The primary dataset used for this analysis can be found in the files uploaded to
 - **Excel:** For ensuring accuracy and consistency in data for reliable analysis.
 - **Power BI:** For designing interactive dashboards.
 
-- Power BI
-- Power Query (ETL)
-- DAX (Data Analysis Expressions)
-- Data Modeling
-- Data Visualization
+  - Power BI
+  - Power Query (ETL)
+  - DAX (Data Analysis Expressions)
+  - Data Modeling
+  - Data Visualization
 
 ### Technical Implementation
 - **1.Data Extraction & Cleaning (Power Query)**
-- Imported datasets into Power BI
-- Performed data profiling to detect missing values
-- Standardized data formats
-- Created Age Groups and Income Groups
-- Cleaned and transformed raw data for analysis
+  - Imported datasets into Power BI
+  - Performed data profiling to detect missing values
+  - Standardized data formats
+  - Created Age Groups and Income Groups
+  - Cleaned and transformed raw data for analysis
 
 - **2.Data Modeling**
-- A **relationship model** was created between:
-- Customer Table
-- Credit Card Transaction Table
+ - A **relationship model** was created between:
+  - Customer Table
+  - Credit Card Transaction Table
 The Customer ID column was used as the primary key to establish relationships.
 
 ### Dashboard 1 – Credit Card Customer Report
 The Customer Dashboard focuses on analyzing customer demographics and identifying key customer segments contributing to revenue.
 
 - **Key Insights Provided**
-- Distribution of customers by gender
-- Segmentation of customers by **age groups**
-- Customer analysis based on **income groups**
-- Revenue contribution from different **demographic segments**
+  - Distribution of customers by gender
+  - Segmentation of customers by **age groups**
+  - Customer analysis based on **income groups**
+  - Revenue contribution from different **demographic segments**
 
 - **Filters Available**
-- Gender (Male/Female)
-- Age Group
-- Income Group
+  - Gender (Male/Female)
+  - Age Group
+  - Income Group
 These filters allow users to dynamically analyze customer behavior across different demographics.
 
   ![Screenshot](https://github.com/VAnu20/Power-BI_Credit_Card_Financial_Dashboard/blob/dc51e8a896ed9cbeda3a21816672780d26f68eb8/Credit_Card_Financial_Dashboard-Customer.pdf)
@@ -87,18 +88,18 @@ These filters allow users to dynamically analyze customer behavior across differ
 The Transaction Dashboard provides insights into credit card usage patterns and financial performance.
 
 - **Key Metrics Analyzed**
-- Total Revenue
-- Total Interest Earned
-- Total Transaction Amount
-- Transaction Count
-- Revenue by Card Type
-- Spending by Category
-- Weekly Revenue Trends
+  - Total Revenue
+  - Total Interest Earned
+  - Total Transaction Amount
+  - Transaction Count
+  - Revenue by Card Type
+  - Spending by Category
+  - Weekly Revenue Trends
 
 - **Filters Available**
-- Gender
-- Transaction Date(Week Filter)
-- Spending Category
+  - Gender
+  - Transaction Date(Week Filter)
+  - Spending Category
 This dashboard helps analyze spending patterns and transaction trends across time.
 
   ![Screenshot](https://github.com/VAnu20/Power-BI_Credit_Card_Financial_Dashboard/blob/3e558bd826327290863b15dfe517edd9794bee1b/Credit_Card_Financial_Dashboard-Transaction.pdf)
