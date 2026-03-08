@@ -62,6 +62,7 @@ The primary dataset used for this analysis can be found in the files uploaded to
   - Cleaned and transformed raw data for analysis
 
 - **2.Data Modeling**
+
 A **relationship model** was created between:
   - Customer Table
   - Credit Card Transaction Table
