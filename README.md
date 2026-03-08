@@ -81,7 +81,7 @@ The Customer Dashboard focuses on analyzing customer demographics and identifyin
 - Income Group
 These filters allow users to dynamically analyze customer behavior across different demographics.
 
-  ![Screenshot](Credit_Card_Financial_Dashboard-Customer.pdf)
+  ![Screenshot](https://github.com/VAnu20/Power-BI_Credit_Card_Financial_Dashboard/blob/dc51e8a896ed9cbeda3a21816672780d26f68eb8/Credit_Card_Financial_Dashboard-Customer.pdf)
 
 ### Dashboard 2 – Credit Card Transaction Report
 The Transaction Dashboard provides insights into credit card usage patterns and financial performance.
