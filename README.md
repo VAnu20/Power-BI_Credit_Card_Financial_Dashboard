@@ -62,7 +62,7 @@ The primary dataset used for this analysis can be found in the files uploaded to
   - Cleaned and transformed raw data for analysis
 
 - **2.Data Modeling**
- - A **relationship model** was created between:
+A **relationship model** was created between:
   - Customer Table
   - Credit Card Transaction Table
 The Customer ID column was used as the primary key to establish relationships.
@@ -127,6 +127,4 @@ These insights can help businesses optimize customer targeting and financial str
 
 ### Conclusion
 
-The Credit Card Financial Dashboard project demonstrates how Power BI can be used to transform raw financial data into meaningful insights. By combining data modeling, DAX calculations, and interactive visualizations, the dashboards provide a comprehensive view of customer behavior and transaction performance.
-
-The dashboards enable stakeholders to monitor key metrics, identify high-value customers, and understand spending patterns. This project highlights the importance of data analytics in supporting strategic decision-making and improving business performance.
+This project demonstrates how I used Power BI to transform raw credit card financial data into meaningful and actionable business insights. By applying data modeling, DAX calculations, and interactive visualizations, I developed dashboards that provide a clear view of customer behavior, transaction patterns, and revenue performance. The dashboards enable stakeholders to monitor key metrics, identify high-value customers, and understand spending trends across different categories. Overall, this project highlights the importance of data analytics in supporting strategic decision-making and helping organizations make informed financial decisions.
