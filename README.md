@@ -54,14 +54,14 @@ The primary dataset used for this analysis can be found in the files uploaded to
   - Data Visualization
 
 ### Technical Implementation
-- **1.Data Extraction & Cleaning (Power Query)**
+- **Data Extraction & Cleaning (Power Query)**
   - Imported datasets into Power BI
   - Performed data profiling to detect missing values
   - Standardized data formats
   - Created Age Groups and Income Groups
   - Cleaned and transformed raw data for analysis
 
-- **2.Data Modeling**
+- **Data Modeling**
 
 A **relationship model** was created between:
   - Customer Table
