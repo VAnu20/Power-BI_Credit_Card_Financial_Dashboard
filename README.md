@@ -101,7 +101,7 @@ The Transaction Dashboard provides insights into credit card usage patterns and 
 - Spending Category
 This dashboard helps analyze spending patterns and transaction trends across time.
 
-  ![Screenshot]()
+  ![Screenshot](https://github.com/VAnu20/Power-BI_Credit_Card_Financial_Dashboard/blob/3e558bd826327290863b15dfe517edd9794bee1b/Credit_Card_Financial_Dashboard-Transaction.pdf)
 
 ### Key Business Insights/Findings
 
